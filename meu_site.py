@@ -11,15 +11,6 @@ app = Flask(__name__) # Comando padrão que cria o Site
 def homepage():
     return render_template("index.html")
 
-@app.route("/contatos")
-def contatos():
-    return render_template("contatos.html")
-
-@app.route("/usuarios/<nome_usuario>")
-def usuarios(nome_usuario):
-    return render_template("usuarios.html", nome_usuario = nome_usuario)
-#Colocar o Site no Ar
-
 if __name__ == "__main__": # Se não tiver essa linha de código vai dar erro no site no deploy
     app.run(debug = True) # Estamos criando o site e ativar o debugar do site, Vai aparecer as edições apenas dando F5
 
