@@ -19,6 +19,8 @@ Se você é um recrutador, sinta-se a vontade para me enviar mensagem em qualque
 
 [Este Site](https://github.com/Nicolaspm2/Nicolas_Moreira)
 
+[Jogo Snake em Python}(https://github.com/Nicolaspm2/snake_python)
+
 
 ### Conforme maiores projetos forem surgindo irei postando por aqui ! Obrigado.
 
