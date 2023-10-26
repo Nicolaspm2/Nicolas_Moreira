@@ -11,6 +11,8 @@ Se você é um recrutador, sinta-se a vontade para me enviar mensagem em qualque
 
  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/nicolas.moreira/)
 
+ [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/Nicolaspm2)
+
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmoreira742@gmail.com)
 
 ## Projetos 
