@@ -23,6 +23,8 @@ Se você é um recrutador, sinta-se a vontade para me enviar mensagem em qualque
 
 [Jogo Snake em Python](https://github.com/Nicolaspm2/snake_python)
 
+[Automated_Backteste](https://github.com/Nicolaspm2/automated_backtest)
+
 
 ### Conforme maiores projetos forem surgindo irei postando por aqui ! Obrigado.
 
