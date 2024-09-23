@@ -1,7 +1,5 @@
 # Olá, eu sou Nicolas 
 
-Esse [site](https://nicolaspm2.github.io/Nicolaspm2/) deixa nítido que estou focado no Back-end(haha).
-
 - Estudante de Análise e Desenvolvimento de Sistemas, com a formação para o 1º semestre de 2024.
 
 - Focado especialmente em liguagem Python(s2)
