@@ -1,6 +1,6 @@
 # Olá, eu sou Nicolas 
 
-Esse [site](https://nicolaspm2.github.io/Nicolaspm2/) deixa nítido que estou focado no Back-end(haha).
+E você pode dar uma olhada no meu [Site.](https://nicolaspm.dev.br/)
 
 - Estudante de Análise e Desenvolvimento de Sistemas, com a formação para o 1º semestre de 2024.
 
